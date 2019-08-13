@@ -27,31 +27,3 @@ let driverId = 0
     }
 }
 } //end of function
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function b() {
-  //currently does nothing
-}
-
-function a() {
-  b(); //calls or invokes function b
-}
-
-a();
-
-
-// a() is an execution context
